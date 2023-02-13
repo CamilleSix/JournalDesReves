@@ -1,0 +1,35 @@
+nav.menu{
+    border-bottom: 1px solid whitesmoke;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #2b2929;
+}
+nav.menu .links li{
+    padding-right: 1em;
+}
+nav.menu .links a{
+    color: white;
+    display: block;
+    padding: 0.5em 1em;
+    border-radius: 0.5em ;
+}
+nav.menu img{
+    height: 3em ;
+    margin-right: 1em ;
+    margin-top: 0.5em ;
+    margin-bottom: 0.5em ;
+}
+nav.menu svg{
+    margin-right: 0.5em ;
+}
+.addOneDream{
+    background-color: black;
+}
+
+
+nav.menu .user a{
+    color: #dec2b2;
+}
